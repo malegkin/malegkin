@@ -1,6 +1,5 @@
 ### Hi, I'm Malegkin, Sublieutenant Malegkin!
 
-
 - 💻 Python/C++ Developer
 - 🚀 My main skills are
 
@@ -11,6 +10,7 @@
   <img src="https://img.shields.io/badge/flask-0078D4?logo=flask&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%2339457E.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
   <br/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
