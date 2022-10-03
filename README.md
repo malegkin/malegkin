@@ -18,7 +18,16 @@
    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
 </p>
 
-
-- CodeWars profile: <img src="https://www.codewars.com/users/malegkin/badges/small" />
-- LeetCode profile: [here](https://leetcode.com/malegkin/)
-- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> (https://www.hackerrank.com/malegkin?hr_r=1)
+- Contests:
+<p align='center'>
+<a href="https://www.hackerrank.com/malegkin?hr_r=1">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<a href="https://leetcode.com/malegkin/">
+  <img src="https://leetcode.com/malegkin/" />
+</a>
+<br />  
+<a href="https://www.codewars.com/users/malegkin">
+  <img src="https://www.codewars.com/users/malegkin/badges/small" />
+  </a>
+</p>
